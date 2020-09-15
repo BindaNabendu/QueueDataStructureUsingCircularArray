@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/C++ code with Clion/QueueDataStructureUsingCircularArray/Queue.cpp
+Queue.h
+F:/C++ code with Clion/QueueDataStructureUsingCircularArray/Queue.h
+
+F:/C++ code with Clion/QueueDataStructureUsingCircularArray/Queue.h
+string
+F:/C++ code with Clion/QueueDataStructureUsingCircularArray/string
+iostream
+F:/C++ code with Clion/QueueDataStructureUsingCircularArray/iostream
+
+F:/C++ code with Clion/QueueDataStructureUsingCircularArray/main.cpp
+iostream
+-
+Queue.h
+F:/C++ code with Clion/QueueDataStructureUsingCircularArray/Queue.h
+
