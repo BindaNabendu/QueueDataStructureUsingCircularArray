@@ -4,6 +4,7 @@
 CMakeFiles/QueueDataStructureUsingCircularArray.dir/CircleNumber.cpp.obj: ../CircleNumber.cpp
 CMakeFiles/QueueDataStructureUsingCircularArray.dir/CircleNumber.cpp.obj: ../CircleNumber.h
 
+CMakeFiles/QueueDataStructureUsingCircularArray.dir/Queue.cpp.obj: ../CircleNumber.h
 CMakeFiles/QueueDataStructureUsingCircularArray.dir/Queue.cpp.obj: ../Queue.cpp
 CMakeFiles/QueueDataStructureUsingCircularArray.dir/Queue.cpp.obj: ../Queue.h
 

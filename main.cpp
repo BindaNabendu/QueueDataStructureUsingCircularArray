@@ -5,11 +5,8 @@
 using namespace std;
 
 int main() {
-//    Queue studentSet("Student data base");
-//    //studentSet.push(3);
-//
-//    studentSet.printAllInfo();
-
+/*
+//----------file to check is circular number working or not -----------------------
     CircleNumber a(100);
     a.setIncrementOrDecrementValue(99);
     cout << a.increment() << endl;
@@ -18,6 +15,12 @@ int main() {
     cout << a.add(6);
     a.setIncrementOrDecrementValue(2);
     cout << endl << a.subtract(6);
+//---------------------------------------------------------------------------------
+*/
+    Queue studentList("List of student");
+    studentList.push(4);
+    studentList.printAllInfo();
+    studentList.pop();
 
     return 0;
 }

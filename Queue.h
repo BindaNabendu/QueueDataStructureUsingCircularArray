@@ -18,6 +18,7 @@ private:
     int data[100];
 
     CircleNumber *head, *tail;
+    int circleNumberLimit = 99;
 
 public:
     Queue(string QueueName);
