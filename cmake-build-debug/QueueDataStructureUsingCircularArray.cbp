@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="F:/C++ code with Clion/QueueDataStructureUsingCircularArray/CircleNumber.cpp">
+			<Option target="QueueDataStructureUsingCircularArray"/>
+		</Unit>
+		<Unit filename="F:/C++ code with Clion/QueueDataStructureUsingCircularArray/CircleNumber.h">
+			<Option target="QueueDataStructureUsingCircularArray"/>
+		</Unit>
 		<Unit filename="F:/C++ code with Clion/QueueDataStructureUsingCircularArray/Queue.cpp">
 			<Option target="QueueDataStructureUsingCircularArray"/>
 		</Unit>

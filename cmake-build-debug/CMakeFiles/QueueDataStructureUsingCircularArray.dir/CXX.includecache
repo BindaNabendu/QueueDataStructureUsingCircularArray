@@ -6,9 +6,7 @@
 
 #IncludeRegexTransform: 
 
-F:/C++ code with Clion/QueueDataStructureUsingCircularArray/Queue.cpp
-Queue.h
-F:/C++ code with Clion/QueueDataStructureUsingCircularArray/Queue.h
+F:/C++ code with Clion/QueueDataStructureUsingCircularArray/CircleNumber.h
 
 F:/C++ code with Clion/QueueDataStructureUsingCircularArray/Queue.h
 string
@@ -21,4 +19,6 @@ iostream
 -
 Queue.h
 F:/C++ code with Clion/QueueDataStructureUsingCircularArray/Queue.h
+CircleNumber.h
+F:/C++ code with Clion/QueueDataStructureUsingCircularArray/CircleNumber.h
 

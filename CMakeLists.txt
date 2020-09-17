@@ -3,4 +3,4 @@ project(QueueDataStructureUsingCircularArray)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(QueueDataStructureUsingCircularArray main.cpp Queue.cpp Queue.h)
+add_executable(QueueDataStructureUsingCircularArray main.cpp Queue.cpp Queue.h CircleNumber.cpp CircleNumber.h)

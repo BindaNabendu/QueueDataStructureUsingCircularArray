@@ -6,6 +6,7 @@
 #define QUEUEDATASTRUCTUREUSINGCIRCULARARRAY_QUEUE_H
 #include "string"
 #include "iostream"
+#include "CircleNumber.h"
 
 using namespace std;
 //const int SIZE =  5;
@@ -14,16 +15,12 @@ using namespace std;
 class Queue {
 private:
     const string QUEUENAME;
-    const int SIZE=5;
-   // static int size =4;
-public:
-    const int datasize=5;
-    int data[datasize];
+    int data[100];
 
-    int head,tail;
+    CircleNumber *head, *tail;
 
 public:
-    Queue(std::string QueueName);
+    Queue(string QueueName);
 
     void push(int data);
     void pop();

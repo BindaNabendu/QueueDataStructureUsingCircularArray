@@ -142,6 +142,33 @@ QueueDataStructureUsingCircularArray/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\QueueDataStructureUsingCircularArray.dir\build.make CMakeFiles/QueueDataStructureUsingCircularArray.dir/build
 .PHONY : QueueDataStructureUsingCircularArray/fast
 
+CircleNumber.obj: CircleNumber.cpp.obj
+
+.PHONY : CircleNumber.obj
+
+# target to build an object file
+CircleNumber.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\QueueDataStructureUsingCircularArray.dir\build.make CMakeFiles/QueueDataStructureUsingCircularArray.dir/CircleNumber.cpp.obj
+.PHONY : CircleNumber.cpp.obj
+
+CircleNumber.i: CircleNumber.cpp.i
+
+.PHONY : CircleNumber.i
+
+# target to preprocess a source file
+CircleNumber.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\QueueDataStructureUsingCircularArray.dir\build.make CMakeFiles/QueueDataStructureUsingCircularArray.dir/CircleNumber.cpp.i
+.PHONY : CircleNumber.cpp.i
+
+CircleNumber.s: CircleNumber.cpp.s
+
+.PHONY : CircleNumber.s
+
+# target to generate assembly for a file
+CircleNumber.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\QueueDataStructureUsingCircularArray.dir\build.make CMakeFiles/QueueDataStructureUsingCircularArray.dir/CircleNumber.cpp.s
+.PHONY : CircleNumber.cpp.s
+
 Queue.obj: Queue.cpp.obj
 
 .PHONY : Queue.obj
@@ -205,6 +232,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... QueueDataStructureUsingCircularArray
+	@echo ... CircleNumber.obj
+	@echo ... CircleNumber.i
+	@echo ... CircleNumber.s
 	@echo ... Queue.obj
 	@echo ... Queue.i
 	@echo ... Queue.s

@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "F:/C++ code with Clion/QueueDataStructureUsingCircularArray/CircleNumber.cpp" "F:/C++ code with Clion/QueueDataStructureUsingCircularArray/cmake-build-debug/CMakeFiles/QueueDataStructureUsingCircularArray.dir/CircleNumber.cpp.obj"
   "F:/C++ code with Clion/QueueDataStructureUsingCircularArray/Queue.cpp" "F:/C++ code with Clion/QueueDataStructureUsingCircularArray/cmake-build-debug/CMakeFiles/QueueDataStructureUsingCircularArray.dir/Queue.cpp.obj"
   "F:/C++ code with Clion/QueueDataStructureUsingCircularArray/main.cpp" "F:/C++ code with Clion/QueueDataStructureUsingCircularArray/cmake-build-debug/CMakeFiles/QueueDataStructureUsingCircularArray.dir/main.cpp.obj"
   )

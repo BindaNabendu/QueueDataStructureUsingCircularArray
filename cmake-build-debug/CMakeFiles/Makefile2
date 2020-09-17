@@ -93,12 +93,12 @@ clean: CMakeFiles/QueueDataStructureUsingCircularArray.dir/clean
 CMakeFiles/QueueDataStructureUsingCircularArray.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\QueueDataStructureUsingCircularArray.dir\build.make CMakeFiles/QueueDataStructureUsingCircularArray.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\QueueDataStructureUsingCircularArray.dir\build.make CMakeFiles/QueueDataStructureUsingCircularArray.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="F:\C++ code with Clion\QueueDataStructureUsingCircularArray\cmake-build-debug\CMakeFiles" --progress-num=1,2,3 "Built target QueueDataStructureUsingCircularArray"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="F:\C++ code with Clion\QueueDataStructureUsingCircularArray\cmake-build-debug\CMakeFiles" --progress-num=1,2,3,4 "Built target QueueDataStructureUsingCircularArray"
 .PHONY : CMakeFiles/QueueDataStructureUsingCircularArray.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/QueueDataStructureUsingCircularArray.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "F:\C++ code with Clion\QueueDataStructureUsingCircularArray\cmake-build-debug\CMakeFiles" 3
+	$(CMAKE_COMMAND) -E cmake_progress_start "F:\C++ code with Clion\QueueDataStructureUsingCircularArray\cmake-build-debug\CMakeFiles" 4
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/QueueDataStructureUsingCircularArray.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "F:\C++ code with Clion\QueueDataStructureUsingCircularArray\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/QueueDataStructureUsingCircularArray.dir/rule
