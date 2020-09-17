@@ -22,5 +22,10 @@ int main() {
     studentList.printAllInfo();
     studentList.pop();
 
+    studentList.printAllInfo();
+
+    studentList.pop();
+    studentList.printAllInfo();
+
     return 0;
 }

@@ -56,4 +56,5 @@ void Queue::printAllInfo() {
     for ( i.setIncrementOrDecrementValue(head->getIncrementOrDecrementValue()); i.getIncrementOrDecrementValue() < tail->getIncrementOrDecrementValue(); i.increment()) {
         cout << "data [" << i.getIncrementOrDecrementValue() <<"]=" << data[i.getIncrementOrDecrementValue()];
     }
+    cout <<"----------------------------------"<<endl;
 }
